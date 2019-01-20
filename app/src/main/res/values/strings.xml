@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmoSuggest</string>
+    <string name="microsoft_face_api">Enter API Key here</string>
+    <string name="youtube_data_api">Enter API Key here</string>
+    <string name="news_api">Enter API Key here</string>
+</resources>
